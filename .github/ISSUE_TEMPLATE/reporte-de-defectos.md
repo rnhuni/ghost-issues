@@ -7,9 +7,6 @@ assignees: ''
 
 ---
 
-**Título**
-Explicación breve y puntual del defecto a reportar.
-
 **Comportamiento Esperado**
 Descripción del comportamiento esperado para el escenario de pruebas.
 
